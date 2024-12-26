@@ -61,10 +61,10 @@ A fun two-player dice game built with HTML, CSS, and JavaScript. Players take tu
 ```
 Hold-N-Roll
 │      .prettierrc
-│      app.js
+│      README.md
 │      index.html
 │      style.css
-│      README.md
+│      script.js
 │
 └─── Images -----> all images
 ```
