@@ -12,7 +12,7 @@
     <img src="./images/dice-1.png" alt="Logo" height="75">
 </a>
 
-<h1>Mapty</h1>
+<h1>Hold-N-Roll</h1>
 
   <p align="center">
     <a href="https://hold-n-roll.vercel.app/">View Demo</a>
