@@ -75,7 +75,7 @@ To get started with the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SalahShallapy/Hold-N-Roll
+   git clone https://github.com/SalahShallapy/Hold-N-Roll.git
    ```
 2. Open the Project
    Navigate to the project folder and open the index.html file in your preferred web browser to start playing.
